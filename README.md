@@ -12,7 +12,7 @@ I'm **Bui Quang Anh**, a Cyber Security Engineer Intern.
 
 ## Skills & Technologies
 
-c,cpp,php,powershell,bash,html,css,java,docker,git,github,linux,python
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,php,powershell,bash,html,css,java,git,github,linux,python)](https://skillicons.dev)
 
 ## Top Projects
 
@@ -37,11 +37,3 @@ c,cpp,php,powershell,bash,html,css,java,docker,git,github,linux,python
 - **Created**: New repository [ransomtest](https://github.com/anhshidou/ransomtest).  
 - **Updated**: Scripts in [sendmail](https://github.com/anhshidou/sendmail).  
 - **Opened** new issues in [PHP-training](https://github.com/anhshidou/PHP-training).
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts. Stay tuned for updates!
-
-## Connect with Me
-
-{}
