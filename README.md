@@ -5,7 +5,7 @@ I'm **Bui Quang Anh**, a Cyber Security Engineer Intern.
 ## About Me
 
 - ⚡ Quick bio:                    I want to go to bed
-- 🔭 I’m currently working on:      Viettel Cyber Security
+- 🔭 I’m currently working on:      Bed
 - 🌱 I’m currently learning:        Information Assurance at FPT University Ha Noi
 
 
