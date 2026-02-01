@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Bui Quang Anh**, a Cyber Security Engineer Intern.
+I'm **Bui Quang Anh**, a Cyber Security Engineer.
 
 ## About Me
 
